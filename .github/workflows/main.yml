@@ -35,4 +35,4 @@ jobs:
           context: .
           push: true
           target: prod
-          tags: ${{ github.repository_owner }}/${{ github.event.repository.name }}:latest
+          tags: yanliqiang66/${{ github.event.repository.name }}:latest
